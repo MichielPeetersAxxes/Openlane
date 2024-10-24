@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CV5B7aLl4IE=",
+  "dgSpecHash": "j+QE526AYkw=",
   "success": true,
   "projectFilePath": "C:\\Users\\MichielPeeters\\Axxes\\ExternalProjects\\OpenLaneExercise\\OpenLane\\OpenLane.STUB.WebAPI\\OpenLane.STUB.WebAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MichielPeeters\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\MichielPeeters\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.9.0\\swashbuckle.aspnetcore.swagger.6.9.0.nupkg.sha512",
+    "C:\\Users\\MichielPeeters\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.9.0\\swashbuckle.aspnetcore.swaggergen.6.9.0.nupkg.sha512",
+    "C:\\Users\\MichielPeeters\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.9.0\\swashbuckle.aspnetcore.swaggerui.6.9.0.nupkg.sha512"
+  ],
   "logs": []
 }
